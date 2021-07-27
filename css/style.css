@@ -1,0 +1,591 @@
+div.first_header{
+  background-color: #87509C;
+  height: 700px;
+}
+
+section.second_header a img{
+  padding-top: 65px;
+  padding-left: 211px;
+}
+
+section.second_header ul{
+  /* margin-right: 30px; */
+}
+
+section.second_header ul li{
+  display: inline-block;
+  margin-top: 65px;
+  margin-right: 10px;
+  color: #000;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 1px;
+}
+
+section.second_header ul li a{
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+section.second_header ul li a:hover{
+  /* border: 1px solid #613876; */
+  border-radius: 4px;
+  background-color: #613876;
+}
+
+/************************************
+************third_header*************
+************************************/
+
+section.third_header{
+
+}
+
+section.third_header p{
+  display: inline-block;
+  color: #F7F3EA;
+  font-weight: bold;
+  font-size: 42px;
+  margin-top: 131px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+section.third_header a{
+  display: inline-block;
+  color: #FBF5F3;
+  font-size: 18px;
+  border: 1px solid #EB7D4B;
+  background-color: #EB7D4B;
+  padding: 27px 84px;
+  text-decoration: none;
+  margin-top: 80px;
+  margin-left: 550px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+/************************************
+************second_block*************
+************************************/
+
+.second_block{
+  height: 900px; /* 745 */
+  background: #17C2A4;
+}
+
+.second_block .services h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.line{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #14A58C;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+.second_block .we_are  p{
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+/************************************
+************second_block_second_h*************
+************************************/
+
+
+section.second_h{
+  margin-top: 100px;
+  margin-left: 200px;
+  max-width: 1070px;
+}
+
+section.second_h div{
+  padding-bottom: 100px;
+}
+
+section.second_h img{
+  margin: 0 auto;
+}
+
+section.second_h h2{
+  padding-top: 60px;
+  font-size: 24px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+section.second_h .brand h2{
+  padding-left: 10px;
+}
+
+section.second_h .design h2{
+  padding-left: 25px;
+}
+
+section.second_h .dev h2{
+  padding-right: 30px;
+}
+
+section.second_h .rocket h2{
+  padding-right: 20px;
+}
+
+section.second_h p{
+  font-size: 16px;
+  text-align: center;
+  margin-left: 0 auto;
+  max-width: 150px;
+  color: #fff;
+  padding-bottom: 125px;
+}
+
+/************************************
+************third_block**************
+************************************/
+
+.third_block{
+  background: #E7F1F8;
+  height: 920px;
+}
+
+section.second_second_third{
+  margin-top: 100px;
+  margin-left: 200px;
+  max-width: 1070px;
+}
+
+section.second_second_third div{
+  padding-bottom: 100px;
+}
+
+section.second_second_third img{
+  margin: 0 auto;
+}
+
+section.second_second_third h2{
+  padding-top: 60px;
+  font-size: 24px;
+  color: #000;
+  text-transform: uppercase;
+}
+
+section.second_second_third .anne h2{
+  padding-left: 10px;
+}
+
+section.second_second_third .kate h2{
+  padding-left: 25px;
+}
+
+section.second_second_third .olivia h2{
+  padding-right: 30px;
+}
+
+section.second_second_third .ashley h2{
+  padding-right: 20px;
+}
+
+section.second_second_third p{
+  font-size: 16px;
+  text-align: center;
+  margin-left: 0 auto;
+  max-width: 150px;
+  color: #000;
+  padding-bottom: 125px;
+}
+
+.third_block .services_2 h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #000;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.third_block .we_are_small  p{
+  text-align: center;
+  color: #000;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+.line_2{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #C8D9E5;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+section.second_second_third .anne a{
+  padding-bottom: 20px;
+}
+
+section.second_second_third .kate a{
+  padding-top: 10px;
+}
+
+section.second_second_third .olivia a{
+  padding-top: 10px;
+}
+
+section.second_second_third .ashley a{
+  padding-top: 10px;
+}
+
+/************************************
+*************four_block**************
+************************************/
+
+.four_block{
+  background: #fff;
+  height: 660px;
+}
+
+.four_block .services_3 h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #000;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.four_block .we_are_2  p{
+  text-align: center;
+  color: #000;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+.line_3{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #C8D9E5;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+section.second_second_four{
+  margin-top: 100px;
+  margin-left: 200px;
+  max-width: 1070px;
+}
+
+section.second_second_four img{
+  margin: 0 auto;
+}
+
+/************************************
+**************five_block*************
+************************************/
+
+.five_block{
+  background: #FFDD99;
+  height: 1500px;
+}
+
+.line_4{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #E5C37F;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+.five_block .we_are_3  p{
+  text-align: center;
+  color: #000;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+.five_block .services_4 h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #000;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+/* section.first_five a{
+  display: inline-block;
+  color: #393939;
+  font-size: 18px;
+  border: 1px solid #EBC985;
+  background-color: #EBC985;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 80px;
+  margin-left: 550px;
+  border-radius: 4px;
+}
+
+section.first_five a:hover{
+  background-color: #fff;
+} */
+
+section.first_five ul{
+  margin-left: 500px;
+  padding: 10px 20px;
+}
+
+section.first_five ul li{
+  display: inline-block;
+  margin-left: 15px;
+  margin-top: 10px;
+  color: #393939;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #EBC985
+}
+
+section.first_five ul li a{
+  text-decoration: none;
+  color: #393939;
+  padding: 10px;
+}
+
+section.first_five ul li a:hover{
+  background-color: #fff;
+  padding: 10px 10px;
+}
+
+section.second_second_five img{
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+section.second_second_five p{
+  margin-left: 250px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+section.second_second_six img{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+section.second_second_six p{
+  margin-left: 250px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+section.button_six a{
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #17C2A4;
+  background-color: #17C2A4;
+  padding: 27px 84px;
+  text-decoration: none;
+  margin-top: 100px;
+  margin-left: 550px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+/************************************
+**************six_block*************
+************************************/
+
+.six_block{
+  background: #D74680;
+  height: 1000px;
+}
+
+.six_block .six_2 h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.line_5{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #B73C6D;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+.six_block .six_3  p{
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+.six_two {
+  margin-top: 70px;
+  margin-left: 10px;
+}
+
+.six_two p{
+  color: #F7DAE6;
+  margin-left: 150px;
+  font-size: 21px;
+}
+
+.six_two h1{
+  font-weight: bold;
+  color: #fff;
+  margin-left: 150px;
+}
+
+.six_two a{
+  text-decoration: none;
+  font-size: 18px;
+  color: #FFDD99;
+  margin-left: 150px;
+}
+
+.six_two img{
+  float: left;
+  margin-top: 10px;
+}
+
+
+/************************************
+**************seven_block*************
+************************************/
+
+.seven_block{
+  background: #3C5499;
+  height: 900px;
+}
+
+.seven_block .seven_2 h1{
+  margin-left: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 120px;
+}
+
+.line_6{
+  position: absolute;
+  width: 85px;
+  height: 6px;
+  bottom: 0;
+  left: 0;
+  background-color: #273A70;
+  transition: all .1s linear;
+  margin-left: 700px;
+}
+
+.seven_block .seven_3  p{
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 430px;
+  max-width: 600px;
+}
+
+.seven_block a{
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #17C2A4;
+  background-color: #30BAE7;
+  padding: 27px 84px;
+  text-decoration: none;
+  margin-top: 50px;
+  margin-left: 550px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.seven_block input[type="text"], .seven_block input[type="email"]{
+  width: 410px;
+  height: 52px;
+  background: #273A71;
+  border-radius: 5px;
+  border: 1px solid #273A71;
+  color: #fff;
+  font-size: 17px;
+  display: inline-block;
+  padding-left: 15px;
+  margin: 20px auto;
+}
+
+.seven_block input[type="text"]{
+  margin-left: 300px;
+}
+
+.seven_block textarea{
+  width: 825px;
+  height: 200px;
+  background: #273A71;
+  border-radius: 5px;
+  border: 1px solid #273A71;
+  color: #fff;
+  font-size: 17px;
+  padding: 15px;
+  /* margin: 20px auto; */
+  margin-left: 300px;
+  display: block;
+  resize: none;
+}
+
+/************************************
+**************final_block************
+************************************/
+
+.final{
+  max-height: 160px;
+  background-color: #344B8E;
+}
+
+.final_2 ul li{
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.final_2 ul li a{
+  color: #fff;
+  font-size: 24px;
+  text-decoration: none;
+}
